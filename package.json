@@ -1,0 +1,30 @@
+{
+  "name": "api-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api-node.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21339166/Projetos-api.git"
+  },
+  "author": "Matheus Nougueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21339166/Projetos-api/issues"
+  },
+  "homepage": "https://github.com/21339166/Projetos-api#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "schema": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
