@@ -1,3 +1,3 @@
 # NodeAPI
 
-<h1>Creating a basic study API</h1>
+<p>Creating a basic study API</p>
